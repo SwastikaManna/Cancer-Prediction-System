@@ -4,6 +4,7 @@
 
 This project presents a state-of-the-art machine learning system for cancer prediction, achieving **97.37% accuracy** using the Wisconsin Breast Cancer Dataset. The system incorporates advanced ML techniques, comprehensive feature engineering, and a professional web-based interface suitable for medical applications.
 
+## 🚀 [Live Demo] https://cancer-prediction-system.netlify.app/
 ## 🎯 Project Highlights
 
 ### Performance Achievements
@@ -176,7 +177,7 @@ Actual Malignant   41      1
 
 ## 🏆 Conclusion
 
-This Advanced AI Cancer Prediction System demonstrates the successful application of modern machine learning techniques to healthcare challenges. With 97.37% accuracy and a professional web interface, it represents a comprehensive solution suitable for both educational and preliminary clinical applications.
+This Advanced Cancer Prediction System demonstrates the successful application of modern machine learning techniques to healthcare challenges. With 97.37% accuracy and a professional web interface, it represents a comprehensive solution suitable for both educational and preliminary clinical applications.
 
 The system successfully integrates:
 - **Multiple ML algorithms** with optimal hyperparameter tuning
@@ -184,7 +185,7 @@ The system successfully integrates:
 - **Professional-grade web interface** with medical design principles
 - **Comprehensive evaluation** with clinical metrics
 
-This project showcases the potential of AI in healthcare while maintaining appropriate clinical disclaimers and limitations awareness.
+This project showcases the potential of AI/ML in healthcare while maintaining appropriate clinical disclaimers and limitations awareness.
 
 ---
 
@@ -193,3 +194,11 @@ This project showcases the potential of AI in healthcare while maintaining appro
 **👨‍💻 Development Level**: CSE BTech Graduate  
 **🎯 Accuracy Achieved**: 97.37%  
 **🏥 Clinical Readiness**: Educational/Research Phase
+
+
+## ⚠️ Disclaimer
+Educational purposes only. Not for clinical diagnosis.
+
+## 📧 Contact
+- GitHub: https://github.com/SwastikaManna
+- Email: swastikamanna03@gmail.com
